@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi Coders 👋
 
-<!--
-**xX0ZAK0Xx/xX0ZAK0Xx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+The pleasure is all mine to grab your attention here.
 
-Here are some ideas to get you started:
+I am a passionate programmer and love to work on **projects** regularly.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The **Programming Languages** I know are :
+> **Java**
+> 
+> **C**
+> 
+> **C++**
+
+![MY github stats](https://github-readme-stats.vercel.app/api?username=xX0ZAK0Xx&&show_icons=true&title_color=ffffff&icon_color=f263f7&text_color=2c9ef5&bg_color=14181f)
