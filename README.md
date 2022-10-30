@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Md. Zayed Oyshik</h1>
 <h3 align="center">A passionate programmer</h3>
 
-![](https://raw.githubusercontent.com/xX0ZAK0Xx/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/xX0ZAK0Xx/cf-stats/main/output/light_card.svg)
+![](https://raw.githubusercontent.com/xX0ZAK0Xx/cf/main/output/light_card.svg#gh-dark-mode-only)
+<!-- ![](https://raw.githubusercontent.com/xX0ZAK0Xx/cf/main/output/light_card.svg) -->
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xx0zak0xx" alt="xx0zak0xx" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xX0ZAK0Xx" alt="xX0ZAK0Xx" /></a> </p> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xx0zak0xx&label=Profile%20views&color=0e75b6&style=flat" alt="xx0zak0xx" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xx0zak0xx&label=Profile%20views&color=0e75b6&style=flat" alt="xX0ZAK0Xx" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
