@@ -3,7 +3,7 @@
 
 <!-- <img align="right" src="" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></img> -->
 
-<img align="right" src="https://i.gifer.com/origin/f1/f1c839d0b1fd57dd8ee99936bfe7ecc8_w200.webp" width=480 height=720 frameBorder="0" allowFullScreen></img>
+<img align="right" src="https://i.gifer.com/origin/f1/f1c839d0b1fd57dd8ee99936bfe7ecc8_w200.webp" width=400 height=720 frameBorder="0" allowFullScreen></img>
 
 ![](https://raw.githubusercontent.com/xX0ZAK0Xx/cf/main/output/light_card.svg#gh-dark-mode-only)
 <!-- ![](https://raw.githubusercontent.com/xX0ZAK0Xx/cf/main/output/light_card.svg) -->
